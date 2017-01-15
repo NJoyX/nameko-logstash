@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='nameko-logstash',
-    version='0.1-alpha',
+    version='0.1',
     description='@TODO',
     long_description='@TODO',
     author='Fill Q',
